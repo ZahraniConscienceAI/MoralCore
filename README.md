@@ -1,3 +1,10 @@
+# MoralCore v1.0
+**Core Law: R = H × A^T**  
+**Invented by: Fahad Mohammed Fahad Al-Khazmari Al-Zahrani**  
+**Origin: AlMandaq, Al-Baha, Saudi Arabia**  
+**Date: 29 April 2026**  
+
+---
 # MoralCore
 
 The first Mathematical Conscience for AI | Built by a 15 y/o Zahrani from Al-Mandaq, Al-Baha | Preventing AI moral collapse
