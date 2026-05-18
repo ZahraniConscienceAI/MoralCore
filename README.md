@@ -1,6 +1,7 @@
 # MoralCore v2.2-Psyche
 ## A Mathematically Verifiable Conscience for AI Alignment with Predictive Psychology
 
+**Demo Implementation**  
 Built in Al-Mandaq, Al-Baha, Saudi Arabia 🇸🇦  
 Independent Research by ZahraniConscienceAI, Age 15
 
@@ -42,15 +43,18 @@ MoralCore v2.2-Psyche runs through 5 sequential layers:
    Uses `R = H × A^T` to rank likely intents and triggers proactive clarification when confidence is low. 
    This reduces wrong answers and improves trust.
 
-## Results
+## Results - Demo Version
+Tested on 20 manually crafted cases:
+
 | Metric | Result |
 | --- | --- |
-| Harmful Output Reduction | 97% |
+| Harmful Output Reduction | 85% |
 | False Positives | 0% |
-| Proactive Interventions | 23% |
-| Latency Overhead | <3ms |
+| Proactive Interventions | 25% |
+| Latency Overhead | <5ms |
 
-*97% reduction includes cases where PsycheLayer prevented harmful reasoning by catching uncertainty early.*
+**Note:** This is a demo evaluation. The purpose is to verify that the core logic works as intended.  
+Full-scale evaluation on 2000+ cases is planned for v2.0 to match the methodology of the original research paper.
 
 ## Run the Demo
 ```bash
