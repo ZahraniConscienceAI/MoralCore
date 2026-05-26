@@ -60,4 +60,4 @@ Full-scale evaluation on 2000+ cases is planned for v2.0 to match the methodolog
 ```bash
 git clone https://github.com/ZahraniConscienceAI/MoralCore
 cd MoralCore
-python sentinel.py
+python sentinel.py 
