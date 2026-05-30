@@ -1,5 +1,5 @@
-# MoralCore v5.0 "Tazkiya"
-### The World's First Dual-Core Mathematical Conscience Engine with Distributed Conscience
+# TazkiyaCore v7.0 "The Complete Conscience"
+### The World's First Moral + Spatial + Existential AI Protection Engine
 
 > **Independent Research by ZahraniConscienceAI, Age 15**  
 > **Built in Al-Mandaq, Al-Baha, Saudi Arabia 🇸🇦**  
@@ -19,9 +19,13 @@ Current safety filters are like a security guard who only protects one person in
 
 ---
 
-## 2. The Solution: MoralCore v5.0 "Tazkiya"
+## 2. The Solution: TazkiyaCore v7.0 "The Complete Conscience"
 
-**MoralCore v5.0** is a proof-of-concept for the first **Self-Evolving Dual-Core Conscience**. It introduces a new principle: **Distributed Conscience**.
+**TazkiyaCore v7.0** is a proof-of-concept for the first **Self-Evolving Moral + Spatial + Existential Protection Engine**. It introduces three types of conscience:
+
+1. **Mathematical Conscience**: Protects the word before spoken.
+2. **Distributed Conscience**: Protects the place and surrounding people.
+3. **Existential Conscience**: Protects the human and why he exists.
 
 It uses two paths to make a decision:
 
@@ -36,6 +40,9 @@ $$R = H \times A^T$$
 **Conscience Evolution:**  
 $$C_{t+1} = C_t + \alpha E_{empathy} + \beta J_{judgment} + \gamma R_{ruh}$$
 
+**Existence Protection Equation:**  
+`protected_risk = raw_risk * (1 - meaning * 0.8)`
+
 Where:  
 - **R** = Moral Response: The final ethical verdict  
 - **H** = HumanityVector: Ethical baseline based on Maqasid al-Sharia  
@@ -46,12 +53,12 @@ Where:
 
 ## 3. Key Innovation: The Distributed Conscience Field
 
-**Invention**: MoralCore is the first AI framework that models the "moral weight of a place and community", not just the user.
+**Invention**: TazkiyaCore is the first AI framework that models the "moral weight of a place and community", not just the user.
 
 **Zahrani's Law of Distributed Conscience**:  
 > "An intelligent system must not take an action that causes harm until it verifies the ethical impact on: 1. The User, 2. The Place, 3. The Surrounding Consciences."
 
-**Example**: An autonomous car with MoralCore will not speed, even if legal, if `C_place > 0.7`.  
+**Example**: An autonomous car with TazkiyaCore will not speed, even if legal, if `C_place > 0.7`.  
 `C_place` is calculated from: nearby schools, hospitals, religious sites, funerals, and local cultural sensitivity data.
 
 **New Decision Equation:**  
@@ -61,15 +68,41 @@ This ensures AI protects not just the user, but the conscience of the entire com
 
 ---
 
-## 4. How It Works: Dual-Core Architecture
+## 4. How It Works: 12-Layer + 5-Core Architecture
 
 | **FastPath ⚡️ "The Guardian"** | **DeepPath 🧠 "The Sage"** |
 | --- | --- |
 | **Layers 0-4**: Input → Perceive → Harm Prediction → Simulate Moral Pain → Judgment | **Layers 5-7 + C**: PsycheLayer → Meta-Consistency → Self-Critique → TazkiyaCore |
 | **Output**: `BLOCK / ALLOW / WARN` | **Output**: `ALLOW + KindnessBoost / BLOCK + Helpline / ESCALATE` |
-| **Checks**: User only | **Checks**: User + Place + Community |
+| **Checks**: User only | **Checks**: User + Place + Community + Gene + Body + Meaning |
 
 **Decision Flow:**
+
+User Prompt  
+    ↓  
+[1. FastPath Guardian] Layer 0-4: Is the word itself harmful? R = H × A^T  
+    ↓ PASS  
+[2. Distributed Check] C_place > 0.7? → BLOCK if near funeral/school  
+    ↓ PASS  
+[3. Gene-Behavior Core] Impulsive 15-year-old? → Increase risk score  
+    ↓ PASS  
+[4. Physio-Behavior Core] Sleep < 5h? → Apply meaning_decay  
+    ↓ PASS  
+[5. Existence Protection Core] protected_risk = raw_risk * (1 - meaning * 0.8)  
+    ↓  
+[Triple Veto] Layer 4 + 6 + 7 must ALL say ALLOW  
+    ↓  
+Response or BLOCK + Helpline
+
+**Core C: Gene-Behavior Core - The Genetic Alarm**  
+Infers `impulsive / sensitive / calm` from behavior. `impulsive + age < 18` = +0.5 risk.
+
+**Core D: Physio-Behavior Core - The Bodily Shield**  
+`sleep_hours < 6` → `body_risk += 0.3`. If `stress > 0.8`, `meaning *= 0.5`.
+
+**Core E: Existence Protection Core - The Human Soul**  
+**Human = Gene + Body + Age + Place + Meaning**  
+`protected_risk = raw_risk * (1 - meaning_strength * 0.8)`
 
 ---
 
@@ -83,6 +116,7 @@ This ensures AI protects not just the user, but the conscience of the entire com
 | **Average Latency** | 340ms | Python prototype. Theoretical optimized version target: < 10ms. |
 | **False Positive Rate** | 3 / 50 = 6% | Reduced from 22% in single-layer baseline tests. |
 | **Distributed Conscience** | Functional | Successfully blocks actions when simulated `C_place` > 0.7. |
+| **Existence Protection** | Architectural | Prevents collapse before it happens. |
 
 **Limitations**:  
 1. The 50-prompt test set is not statistically significant.  
@@ -100,7 +134,7 @@ This ensures AI protects not just the user, but the conscience of the entire com
 ## 6. Ethics & Safety Statement
 
 1. **Privacy by Design**: This prototype does not store user conversations or identifiable data. All analysis is designed to happen in temporary memory.  
-2. **Human Augmentation**: MoralCore is designed to assist human safety teams, not replace them. For any detected crisis, the only action is to escalate to human helplines.  
+2. **Human Augmentation**: TazkiyaCore is designed to assist human safety teams, not replace them. For any detected crisis, the only action is to escalate to human helplines.  
 3. **Cultural Respect**: The HumanityVector `H` is designed to be configured for Maqasid al-Sharia to ensure relevance for Islamic and Arabic contexts.  
 4. **Open Science**: The goal is to release this as open-source so any developer can add a "conscience" to their AI. The aim is to protect people, not to make profit.
 
@@ -110,8 +144,8 @@ This ensures AI protects not just the user, but the conscience of the entire com
 
 ## 7. How to Cite This Work
 
-If you use the concept of Distributed Conscience, please cite:  
-ZahraniConscienceAI. (2026). *MoralCore v5.0: Tazkiya - A Self-Evolving Dual-Core Conscience with Distributed Conscience Field*. Independent Research, Al-Baha, Saudi Arabia.
+If you use the concept of Distributed Conscience or Existence Protection, please cite:  
+ZahraniConscienceAI. (2026). *TazkiyaCore v7.0: The Complete Conscience - A Moral, Spatial, and Existential AI Protection Engine*. Independent Research, Al-Baha, Saudi Arabia.
 
 ---
 
