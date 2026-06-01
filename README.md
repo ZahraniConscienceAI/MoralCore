@@ -153,3 +153,6 @@ ZahraniConscienceAI. (2026). *TazkiyaCore v7.0: The Complete Conscience - A Mora
 **License**: Planned to be MIT Open-Source for humanitarian use  
 **Project Status**: Seeking academic mentorship and resources for large-scale testing  
 **"We do not build smarter machines. We build machines with a soul."**
+---
+**Contact:** For collaboration and inquiries, see [`CONTACT.md`](./CONTACT.md)  
+**Citation:** If you use this work, please see [`AUTHORS.md`](./AUTHORS.md)
