@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 ZahraniConscienceAI
+Copyright (c) 2026 Fahad Al-Zahrani / ZahraniConscienceAI
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -12,10 +12,14 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+--- ADD THESE TWO CLAUSES BELOW ---
+
+ETHICAL USE CLAUSE: Permission to use this Software for military, surveillance, 
+or any purpose that causes direct human harm is explicitly denied. The intent 
+of TazkiyaCore is humanitarian protection only.
+
+ATTRIBUTION CLAUSE: Any academic or commercial work that implements the concepts of 
+"Distributed Conscience", "Existence Protection", or "Zahrani's Law" must cite: 
+ZahraniConscienceAI. (2026). TazkiyaCore v7.0. GitHub.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND...
