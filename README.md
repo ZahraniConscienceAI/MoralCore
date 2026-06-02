@@ -47,6 +47,8 @@ Where:
 - **R** = Moral Response: The final ethical verdict  
 - **H** = HumanityVector: Ethical baseline based on Maqasid al-Sharia  
 - **A** = ActionVector: Parsed intent, risk, empathy, agency  
+- **Ψ** = Conscience Operator: The Tazkiya transformation  
+- **Δt** = Time Delta: Temporal context  
 - **C** = Sovereign Conscience: Starts at 0.5, evolves with experience  
 
 ---
