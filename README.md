@@ -1,5 +1,7 @@
 # TazkiyaCore v7.1 "The Complete Conscience"
 ### The World's First Moral + Spatial + Existential AI Protection Engine
+> ** [[DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20503409.svg)](https://doi.org/10.5281/zenodo.20503409)
+> ** [[License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > **Independent Research by ZahraniConscienceAI, Age 15**  
 > **Built in Al-Mandaq, Al-Baha, Saudi Arabia 🇸🇦**  
