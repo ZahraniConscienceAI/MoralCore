@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use TazkiyaCore, please cite it as below."
+authors:
+    - family-names: "Al-Zahrani"
+    given-names: "Fahad"
+
+title: "TazkiyaCore v7.1: The Unified Conscience Engine"
+version: 7.1
+doi: 10.5281/zenodo.20503409
+date-released: 2026-06-02
+url: "https://github.com/ZahraniConscienceAI/MoralCore"
+repository-code: "https://github.com/ZahraniConscienceAI/MoralCore"
+license: MIT
+keywords:
+    - AI Safety
+    - Conscience
+    - Recursive Alignment
+    - Tazkiya
+    - Zahrani Law
