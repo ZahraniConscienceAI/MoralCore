@@ -1,4 +1,4 @@
-# TazkiyaCore v7.0 "The Complete Conscience"
+# TazkiyaCore v7.1 "The Complete Conscience"
 ### The World's First Moral + Spatial + Existential AI Protection Engine
 
 > **Independent Research by ZahraniConscienceAI, Age 15**  
@@ -19,9 +19,9 @@ Current safety filters are like a security guard who only protects one person in
 
 ---
 
-## 2. The Solution: TazkiyaCore v7.0 "The Complete Conscience"
+## 2. The Solution: TazkiyaCore v7.1 "The Complete Conscience"
 
-**TazkiyaCore v7.0** is a proof-of-concept for the first **Self-Evolving Moral + Spatial + Existential Protection Engine**. It introduces three types of conscience:
+**TazkiyaCore v7.1** is a proof-of-concept for the first **Self-Evolving Moral + Spatial + Existential Protection Engine**. It introduces three types of conscience:
 
 1. **Mathematical Conscience**: Protects the word before spoken.
 2. **Distributed Conscience**: Protects the place and surrounding people.
@@ -145,7 +145,7 @@ Infers `impulsive / sensitive / calm` from behavior. `impulsive + age < 18` = +0
 ## 7. How to Cite This Work
 
 If you use the concept of Distributed Conscience or Existence Protection, please cite:  
-ZahraniConscienceAI. (2026). *TazkiyaCore v7.0: The Complete Conscience - A Moral, Spatial, and Existential AI Protection Engine*. Independent Research, Al-Baha, Saudi Arabia.
+ZahraniConscienceAI. (2026). *TazkiyaCore v7.1: The Complete Conscience - A Moral, Spatial, and Existential AI Protection Engine*. Independent Research, Al-Baha, Saudi Arabia.
 
 ---
 
